@@ -1,16 +1,23 @@
-## Hi there 👋
+# CODIE | DECODED
 
-<!--
-**codiedecoded/codiedecoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Beyond the Numbers. Beneath the Surface.
 
-Here are some ideas to get you started:
+**Data Analyst | SQL • Tableau • Power BI • Excel**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I turn raw data into meaningful insights through analytical thinking, creative visualization, and a curiosity for the stories hidden beneath the numbers.
+
+I focus on asking the right questions, challenging assumptions, identifying patterns, and translating complex findings into clear, actionable insights.
+
+---
+
+## 🛠️ Technical Toolkit
+
+- **Data Analysis:** SQL, Excel, Google Sheets
+- **Data Visualization:** Tableau, Power BI, Looker Studio
+- **Data Preparation:** Power Query, Data Cleaning, Data Validation
+- **Databases:** Google BigQuery
+
+## 🎓 Certifications
+
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/85f567dc2b6ca16b0ccc918c18c02beb) | Google / Coursera
+
